@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+KETUK !!
 <html lang="id">
 <head>
     <meta charset="UTF-8">
