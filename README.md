@@ -1,0 +1,1 @@
+Gak Ada Apa Apa
